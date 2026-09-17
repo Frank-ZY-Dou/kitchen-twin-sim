@@ -13,13 +13,13 @@
           "scene": "scene.mjz",
           "camera": {
             "lookat": [
-              3.3131889378596897,
-              -2.953575261046875,
-              1.1810632067974693
+              2.913875475037153,
+              -0.9351931865043301,
+              0.6477614391551594
             ],
-            "distance": 10.703660462693698,
-            "elevation": -13.68274927114844,
-            "azimuth": -65.24511538170215,
+            "distance": 7.076544230414327,
+            "elevation": -30.0,
+            "azimuth": -155.52336865303317,
             "origin_type": "WORLD",
             "enable_reflections": false,
             "enable_shadows": false,
