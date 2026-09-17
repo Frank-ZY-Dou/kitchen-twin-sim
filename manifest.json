@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "version": "0.10.2",
+  "uses_custom_js": false,
+  "projects": [
+    {
+      "id": "lab_kitchen",
+      "name": "Lab kitchen",
+      "scenes": [
+        {
+          "id": "kitchen",
+          "name": "Kitchen",
+          "scene": "scene.mjz",
+          "camera": {
+            "lookat": [
+              3.2586431415921355,
+              -2.6963874226312927,
+              1.1975834459189114
+            ],
+            "distance": 12.562623921518188,
+            "elevation": -32.0,
+            "azimuth": 135.0,
+            "origin_type": "AUTO",
+            "enable_reflections": true,
+            "enable_shadows": false,
+            "height": 240,
+            "width": 320,
+            "fovy": 45.0
+          },
+          "mdps": [],
+          "policies": []
+        }
+      ]
+    }
+  ]
+}
