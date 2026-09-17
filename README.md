@@ -1,11 +1,11 @@
-# Lab kitchen - interactive physics twin
+# Interactive room simulation
 
-**Live:** https://frank-zy-dou.github.io/kitchen-twin-sim/
+Explore the room and its movable objects in your browser. Drag the background to
+orbit and scroll to zoom. Drag a movable object to apply force. Use play/pause and
+reset to control the simulation.
 
-A metric digital twin of a lab kitchen that runs MuJoCo physics directly in the browser. Cabinets, drawers, appliance doors and loose objects are articulated rigid bodies: orbit around the room, then click and drag things to push and pull them. **Reset** restores the initial state.
-
-Everything runs client-side; nothing is uploaded.
-
-This repository holds published output only: the built site and the scene package.
-
-Built with [mjswan](https://github.com/ttktjmt/mjswan) (Apache-2.0) and [MuJoCo](https://mujoco.org).
+Physics: [MuJoCo](https://mujoco.org/). Web viewer:
+[mjswan](https://github.com/ttktjmt/mjswan), built upon
+[zalo/mujoco_wasm](https://github.com/zalo/mujoco_wasm) and inspired by the
+[Facet demo](https://facet.pages.dev/) from Tsinghua University.
+The bundled licenses and viewer attribution are retained.

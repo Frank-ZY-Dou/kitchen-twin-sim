@@ -4,8 +4,8 @@
   "uses_custom_js": false,
   "projects": [
     {
-      "id": "lab_kitchen",
-      "name": "Lab kitchen",
+      "id": "kitchen_twin",
+      "name": "Kitchen Twin",
       "scenes": [
         {
           "id": "kitchen",
@@ -13,18 +13,18 @@
           "scene": "scene.mjz",
           "camera": {
             "lookat": [
-              3.2586431415921355,
-              -2.6963874226312927,
-              1.1975834459189114
+              3.3131889378596897,
+              -2.953575261046875,
+              1.1810632067974693
             ],
-            "distance": 12.562623921518188,
-            "elevation": -32.0,
-            "azimuth": 135.0,
-            "origin_type": "AUTO",
-            "enable_reflections": true,
+            "distance": 10.703660462693698,
+            "elevation": -13.68274927114844,
+            "azimuth": -65.24511538170215,
+            "origin_type": "WORLD",
+            "enable_reflections": false,
             "enable_shadows": false,
-            "height": 240,
-            "width": 320,
+            "height": 600,
+            "width": 960,
             "fovy": 45.0
           },
           "mdps": [],
